@@ -77,8 +77,14 @@
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>/Users/rhspiess/Documents/Projects/Games/UnityThree/UnityThree/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.VectorGraphics">
+      <HintPath>/Users/rhspiess/Documents/Projects/Games/UnityThree/UnityThree/Library/ScriptAssemblies/Unity.VectorGraphics.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.2D.SpriteShape.Editor">
       <HintPath>/Users/rhspiess/Documents/Projects/Games/UnityThree/UnityThree/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InternalAPIEditorBridge.003">
+      <HintPath>/Users/rhspiess/Documents/Projects/Games/UnityThree/UnityThree/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.003.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/rhspiess/Documents/Projects/Games/UnityThree/UnityThree/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
@@ -103,6 +109,9 @@
     </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>/Users/rhspiess/Documents/Projects/Games/UnityThree/UnityThree/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VectorGraphics.Editor">
+      <HintPath>/Users/rhspiess/Documents/Projects/Games/UnityThree/UnityThree/Library/ScriptAssemblies/Unity.VectorGraphics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
       <HintPath>/Users/rhspiess/Documents/Projects/Games/UnityThree/UnityThree/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
@@ -131,6 +140,9 @@
     <Reference Include="Unity.2D.Animation.Editor">
       <HintPath>/Users/rhspiess/Documents/Projects/Games/UnityThree/UnityThree/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.InternalAPIEngineBridge.003">
+      <HintPath>/Users/rhspiess/Documents/Projects/Games/UnityThree/UnityThree/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.003.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Mathematics.Editor">
       <HintPath>/Users/rhspiess/Documents/Projects/Games/UnityThree/UnityThree/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
@@ -145,18 +157,6 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>/Users/rhspiess/Documents/Projects/Games/UnityThree/UnityThree/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VectorGraphics">
-      <HintPath>/Users/rhspiess/Documents/Projects/Games/UnityThree/UnityThree/Library/ScriptAssemblies/Unity.VectorGraphics.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.InternalAPIEditorBridge.003">
-      <HintPath>/Users/rhspiess/Documents/Projects/Games/UnityThree/UnityThree/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.003.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VectorGraphics.Editor">
-      <HintPath>/Users/rhspiess/Documents/Projects/Games/UnityThree/UnityThree/Library/ScriptAssemblies/Unity.VectorGraphics.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.InternalAPIEngineBridge.003">
-      <HintPath>/Users/rhspiess/Documents/Projects/Games/UnityThree/UnityThree/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.003.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2019.3.7f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
 {
+
     public float speed;
     public Rigidbody2D body;
     private float thrust = 111f;
